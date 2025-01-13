@@ -69,7 +69,7 @@ O projeto está estruturado da seguinte forma:
 
 ```bash
 # Clone o repositório
-$ git clone git clone https://github.com/mellyssamnds/desafio-target.git
+$ git clone https://github.com/mellyssamnds/desafio-target.git
 
 # Entre na pasta do projeto
 $ cd desafio-target/questoes

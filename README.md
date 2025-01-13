@@ -27,7 +27,7 @@ Implementar um programa que informe os faturamentos de uma distribuidora:
 - Número de dias no mês em que o valor de faturamento diário foi superior à média mensal;
 
 #### Questão 4 
-Esta questão utiliza os arquivos [dados.json](https://github.com/mellyssamnds/desafio-target/dados/dados.json) localizado na pasta [dados](https://github.com/mellyssamnds/desafio-target/dados). 
+Esta questão utiliza os arquivos [dados.json](https://github.com/mellyssamnds/desafio-target/blob/main/dados/dados.json) localizado na pasta [dados](https://github.com/mellyssamnds/desafio-target/tree/main/dados). 
 Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
 - SP – R$67.836,43
 - RJ – R$36.678,66
